@@ -11,7 +11,7 @@ Developed an online marketplace for 3D models. Creators upload models for custom
 :link: [website](https://production--beamish-douhua-4abb1a.netlify.app/)
 
 ## Social Media Platform
-Developed a social media platform that mimics the essential features of [twitter](https://twitter.com/), enabling users to sign up, share tweets, follow other users, and discover trending topics
+Developed a social media platform that mimics the essential features of [Twitter](https://twitter.com/), enabling users to sign up, share tweets, follow other users, and discover trending topics
 - Used [React](https://react.dev/) for building the UI, [Redux](https://redux.js.org/) for state management, and [Axios API](https://axios-http.com/) for HTTP calls from the browser
 - Used [MongoDB](https://www.mongodb.com/) for storing user and tweet data
 - Built the back end using [Node.js](https://nodejs.org/en/about).
@@ -83,5 +83,5 @@ Wrote a research paper presenting a study on the different variants of TCP that 
 :link: [Paper](https://bit.ly/tcp-analysis)
 
 # Resume
-[Download](https://github.com/PratikSymz/PratikSymz/files/13151632/Pratik.Budhiraja.-.Resume.pdf)
+[Download](https://github.com/user-attachments/files/18138374/Pratik.Budhiraja.Resume.pdf)
 
