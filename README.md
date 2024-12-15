@@ -1,3 +1,6 @@
+# Resume
+[Download](https://github.com/user-attachments/files/18138374/Pratik.Budhiraja.Resume.pdf)
+
 # Websites
 ## Polystore
 Developed an online marketplace for 3D models. Creators upload models for customers to purchase. Hosts ~1000 3D rendered models.
@@ -81,7 +84,4 @@ Collaborated on a research project that predicted sporting event outcomes using 
 Wrote a research paper presenting a study on the different variants of TCP that are used widely across multiple operating systems (Tahoe, Reno, NewReno, and Vegas) and analyzed their performance using various parameters (throughput, drop rate, and latency) under varying degrees of congestion, using NS-2 simulation
 
 :link: [Paper](https://bit.ly/tcp-analysis)
-
-# Resume
-[Download](https://github.com/user-attachments/files/18138374/Pratik.Budhiraja.Resume.pdf)
 
