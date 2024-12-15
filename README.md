@@ -20,9 +20,15 @@ Developed a social media platform that mimics the essential features of [twitter
 :link: [website](https://a9--fabulous-dasik-7e58a1.netlify.app/tuiter/)
 
 # Mobile Apps
+## Calorie Tracker
+Developed a modular Android calorie tracker app, with a personalized onboarding process. Provides users an overview of their daily nutrition and real-time updates on calories, macros, and micronutrients.
+- Used Jetpack Compose for the UI, and navigation, MVVM and clean architecture, Dagger-Hilt for dependency injection, Retrofit for networking, Room for on-device storage, and Coroutines for asynchronous processing.
+- Used Mockk, Compose UI Test, and Hilt Test for comprehensive testing.
+
+:link: [play store](https://play.google.com/store/apps/details?id=com.pratiksymz.calorytracker)
+
 ## RMMB3R
 Developed an Android notes application for users to create and save notes with custom colors and search and sort notes based on title, date, or color
-
 - Used [Jetpack Compose](https://developer.android.com/jetpack/compose) to develop the UI, MVVM for layouts, [Dagger](https://dagger.dev/) and [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for dependency injection, [Kotlin coroutines](https://kotlinlang.org/docs/coroutines-overview.html) for asynchronous processing, and [SQLite](https://www.sqlite.org/index.html) for storage
 - Implemented on-device storage for notes using [Room](https://developer.android.com/training/data-storage/room)
 
@@ -30,7 +36,6 @@ Developed an Android notes application for users to create and save notes with c
 
 ## TrailLines
 Developed an Android mobile application for exploring hiking trails near the user. Search results can be sorted or filtered based on reviews, accessibility services, and things to do.
-
 - Based on this project, the professor recommended a TA position for the course during Fall '22
 - The messaging feature enables users to connect with other trail enthusiasts on the app. A friend request is used to allow users to connect with other hikers. The messaging system also provides a view of all users currently online.
 - Used [Retrofit](https://square.github.io/retrofit/) for asynchronous network calls, [Firebase](https://firebase.google.com/) for notifications, messaging, authentication, and storage services, and [SQLite](https://www.sqlite.org/index.html) for storage
@@ -42,7 +47,6 @@ Developed an Android mobile application for exploring hiking trails near the use
 A stock market simulator with real-time pricing using the [AlphaVantage API](https://www.alphavantage.co/documentation/).
 
 Developed a stock market simulator with real-time pricing using the AlphaVantage API. This enabled my classmates to learn about and experiment with investing by creating portfolios, trading stocks, and applying automated investing strategies.
-
 - Limited to stocks listed on the S&P 500, we used the [AlphaVantage API](https://www.alphavantage.co/documentation/) to fetch the closing value of a stock on a given day
 - Implemented caching using [Redis](https://redis.io/) to limit calls to the AlphaVantage API
 - Used Java for backend development
@@ -54,7 +58,6 @@ Developed a stock market simulator with real-time pricing using the AlphaVantage
 
 ## Content Delivery Network Application
 Developed a large-scale distributed system to serve Wiki query responses to clients via CDNs. Ranked amongst the top teams with the fastest response times
-
 - Implemented query response caching and geographic DNS redirection, improving client response time by ∼ 15%.
 - Implemented the CDN server in [Python](https://www.python.org/)
 - Used [zlib](https://www.zlib.net/) for compressing responses before caching
@@ -63,7 +66,6 @@ Developed a large-scale distributed system to serve Wiki query responses to clie
 
 ## Raw Socket Application
 Developed a wget FTP application to download files for input URLs
-
 - Implemented TCP/IP headers and packet validation using checksum from scratch
 - Implemented a three-way handshake and congestion control with the server to reduce packet loss by 10%
 
