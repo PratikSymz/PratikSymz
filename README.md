@@ -1,5 +1,5 @@
 # Resume
-[Download](https://github.com/user-attachments/files/18138374/Pratik.Budhiraja.Resume.pdf)
+[Download][Pratik Budhiraja Resume.pdf](https://github.com/user-attachments/files/18368659/Pratik.Budhiraja.Resume.pdf)
 
 # Websites
 ## Polystore
